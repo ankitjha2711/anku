@@ -1,5 +1,1 @@
-# anku
-ddd
 
-nbnn
-mm
